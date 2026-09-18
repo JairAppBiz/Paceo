@@ -12503,14 +12503,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"expo-speech-recognition@npm:3.0.1":
-  version: 3.0.1
-  resolution: "expo-speech-recognition@npm:3.0.1"
+"expo-speech-recognition@npm:~57.0.0":
+  version: 57.0.0
+  resolution: "expo-speech-recognition@npm:57.0.0"
   peerDependencies:
     expo: "*"
     react: "*"
     react-native: "*"
-  checksum: 10c0/128b1e16505c2b415e85acb7b2ac3c2f6a559b97d7c8d9f3daac5eed555f7729d2082edbd561b9c3dbd428b5351c330bc670fe7397e5fda1cb84e74fad196d02
+  checksum: 10c0/68f1e4720e924c78dc026089436129aafc4c59a4bded92ad88395686886d0e621d60d9db21c182c5f845d821a7dc69ed9211378b57b9cc17c7d8ea6dfbb469da
   languageName: node
   linkType: hard
 
@@ -14706,13 +14706,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jose@npm:^6.2.12":
-  version: 6.2.12
-  resolution: "jose@npm:6.2.12"
-  checksum: 10c0/e8582b946fabcae228819982dda4849908c353e9cb098f02f773635aa0d2f4917f17484c7441b8d526e564013b4cf96951455c94f81d0a39ee765bad44ce293d
-  languageName: node
-  linkType: hard
-
 "js-tokens@npm:^3.0.0 || ^4.0.0, js-tokens@npm:^4.0.0":
   version: 4.0.0
   resolution: "js-tokens@npm:4.0.0"
@@ -15314,20 +15307,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lottie-react-native@npm:7.3.1":
-  version: 7.3.1
-  resolution: "lottie-react-native@npm:7.3.1"
+"lottie-react-native@npm:~7.5.0":
+  version: 7.5.0
+  resolution: "lottie-react-native@npm:7.5.0"
   peerDependencies:
-    "@lottiefiles/dotlottie-react": ^0.6.5
-    react: "*"
-    react-native: ">=0.46"
+    "@lottiefiles/dotlottie-react": ^0.13.5
+    react: ">=19.2"
+    react-native: ">=0.84"
     react-native-windows: ">=0.63.x"
   peerDependenciesMeta:
     "@lottiefiles/dotlottie-react":
       optional: true
     react-native-windows:
       optional: true
-  checksum: 10c0/0cc257fbb054a0489f11b9785ba3a0408946648b7db55ca335ee86fbbb95662f89f94dd70190f928f479f94a1f1bce729f789842fdbd130d8a3661d61c94a021
+  checksum: 10c0/3782f1488af58688f46c9b9c7f2f7870ebb8633d8e2d3ccab742d20f6502e30a7a92fcc88432d570c6b39d688f707bb5bb64c42f65bbe54cca20adac73d8d149
   languageName: node
   linkType: hard
 
@@ -18237,16 +18230,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-keyboard-controller@npm:1.20.7":
-  version: 1.20.7
-  resolution: "react-native-keyboard-controller@npm:1.20.7"
+"react-native-keyboard-controller@npm:~1.22.5":
+  version: 1.22.5
+  resolution: "react-native-keyboard-controller@npm:1.22.5"
   dependencies:
     react-native-is-edge-to-edge: "npm:^1.2.1"
   peerDependencies:
     react: "*"
     react-native: "*"
     react-native-reanimated: ">=3.0.0"
-  checksum: 10c0/f3a1682552ed90f086f4442ba2eebfb2080451e4c9d686345ba92b8fbeca3498172e6b302a413406fabe9ab06cc19c67dbec22a7703b72342f89d39fce136db3
+  checksum: 10c0/734014dd77ff5a6f05b18f0b0bf192f43967bbcb0d05d1812d01b1733079fccdff282bf729453ea94b7eeef6947bbb8ae53b4f4eb00d2b5af6fed40f3398c97d
   languageName: node
   linkType: hard
 
@@ -21226,7 +21219,6 @@ __metadata:
     better-auth: "npm:^1.6.22"
     class-variance-authority: "npm:^0.7.1"
     clsx: "npm:^2.1.1"
-    jose: "npm:^6.2.12"
     jsdom: "npm:^26.1.0"
     lucide-react: "npm:^1.7.0"
     motion: "npm:12.40.0"
